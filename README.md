@@ -13,7 +13,7 @@
 ![image](https://user-images.githubusercontent.com/56957725/68291979-89dcf680-00bd-11ea-94aa-dae22e9cb6ee.png)
 
 ------------------------------------------------------------------------------
-#### Penjelasan Latihan
+#### Penjelasan Latihan 2
 
 1. **Mula mula input max = 0** . fungsi dari max untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.  
 2. **Ketik perintah while True**. _While disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya._
