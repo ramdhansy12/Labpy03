@@ -28,3 +28,23 @@
 .Hasil Progrman ada di bawah :point_down:
 
 ![image](https://user-images.githubusercontent.com/56957725/68304546-8b67e800-00d8-11ea-9d41-fb84f6b54522.png)
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+
+Program 1
+Soal :
+
+**Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
+modal awal 100 juta, pada bulan pertama dan kedua belum mendapatkan laba. pada
+bulan ketiga baru mulai mendapatkan laba sebesar 1% dan pada bulan ke 5,
+pendapatan meningkat 5%, selanjutnya pada bulan ke 8 mengalami penurunan
+keuntungan sebesar 2%, sehingga laba menjadi 3%. Hitung total keuntungan selama 8
+bulan berjalan usahanya.**
+
+Penyelesaian menggunakan For, if
+
+1. Mula -mula masukkan modal usahanya yaitu a = 100000000
+2. Gunakan perintah for m in range (1,9):, for ini untuk perulangan dari 1 sampai 8, kenapa menggunakan for,karena for ini perulangan yang terhitung.
+3. Lalu gunakan perintah if
+
