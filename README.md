@@ -25,3 +25,6 @@
      _if itu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu. Kenapa max = 0 nantinya 0 itu persamaan dari bilangan terbesar, nah if  a== 0 itu harus diakhiri dengan perintah break, break ini untuk memberhentikan perulangan_
 5. **Pernyataan print ("Bilangan Terbesar adalah",max)**. _Nantinya ini akan menampilkan bilangan terbesar, dari nilai data yang anda masukkan_.
 6. SELESAI :heavy_check_mark: :octocat:
+.Hasil Progrman ada di bawah :point_down:
+
+![image](https://user-images.githubusercontent.com/56957725/68304546-8b67e800-00d8-11ea-9d41-fb84f6b54522.png)
