@@ -32,7 +32,8 @@
 ----------------------------------------------------------------------------------------------------------------------------------------
 
 
-Program 1
+#### Program 1
+
 Soal :
 
 **Seorang pengusaha menginvestasikan uangnya untuk memulai usahanya dengan
@@ -45,6 +46,17 @@ bulan berjalan usahanya.**
 Penyelesaian menggunakan For, if
 
 1. Mula -mula masukkan modal usahanya yaitu a = 100000000
-2. Gunakan perintah for m in range (1,9):, for ini untuk perulangan dari 1 sampai 8, kenapa menggunakan for,karena for ini perulangan yang terhitung.
-3. Lalu gunakan perintah if
+
+2. **Gunakan perintah for m in range (1,9):**, _for ini untuk perulangan dari 1 sampai 8, kenapa menggunakan for,karena for ini perulangan yang terhitung. Pada skirp in range(1, 9) akan mebentuk list perulangan yang berisi [1,2,3,4,5,6,7,8] nah dan bahwa iterasi 9 itu tidak termasuk, untuk membuktikan bawa perulangan ini hanya sampai 8 saja_.
+
+3. **Lalu gunakan perintah _if(m>=1 and m<=2): b=a*0**. _if pertama ini untuk menentukan laba bulan ke 1 dan ke 2.masukan variable kalikan nilai (a) dengan data bulan 1 dan 2_. **lalu print("Laba bulan ke-",m," :",b) untuk menampilkan hasil laba **. _pada bulan pertama dan kedua belum mendapatkan laba jadinya 0_.
+
+4. **if(m>=3 and m<=4): c=a*0.1**. _if yang kedua ini untuk menentukkan laba bulan ke 3 dan ke 4.masukan variable kalikan nilai (a) dengan data bulan 3 dan 4. pada bulan ke 3 itu baru mendapatkan laba sebesar 1%  berarti bulan ke 4 juga sama. lalu cetak (m) dan (c), dengan perintah_  **print("Laba bulan ke-",m," :",c)**.
+
+5. **Kemudian if(m>5 and m<=7): d=a*0.5**._if ketiga untuk menentukan laba bulan ke 5 sampai ke 7.masukan variable lalu  kalikan nilai (a) dengan data bulan 5 sampai 7, pada bulan ke 5 laba naik sebesar 5% berarti pada bulan ke 6 dan 7 kenaikan labanya sama, lalu cetak (m) dan (d), dengan perintah_ **print ("Laba bulan ke-",m," :",d)**..
+
+6. **if(m==8): e=a*0.2** if keempat atau yang terakhir  ini untuk menentukan laba bulan ke 8. lalu masukan variabel kalikan nilai (a) dengan data bulan 8. Pada laba bulan ke 8 ini menurun sebanyak 2%, lalu  cetak (m) dan (e) dengan perintah_ **print ("Laba bulan ke-",m," :",e)**.
+
+7. **Kemudian yang terakhir totalkan keseluruhan laba yaitu total = b+b+c+c+d+d+d+e
+
 
