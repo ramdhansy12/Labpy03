@@ -25,7 +25,7 @@
      _if itu bila suatu kondisi tertentu tercapai maka apa yang harus dilakukan. Dengan fungsi ini kita bisa menjalankan suatu perintah dalam kondisi tertentu. Kenapa max = 0 nantinya 0 itu persamaan dari bilangan terbesar, nah if  a== 0 itu harus diakhiri dengan perintah break, break ini untuk memberhentikan perulangan_
 5. **Pernyataan print ("Bilangan Terbesar adalah",max)**. _Nantinya ini akan menampilkan bilangan terbesar, dari nilai data yang anda masukkan_.
 6. SELESAI :heavy_check_mark: :octocat:
-.Hasil Progrman ada di bawah :point_down:
+.Hasil Programan ada di bawah :point_down:
 
 ![image](https://user-images.githubusercontent.com/56957725/68304546-8b67e800-00d8-11ea-9d41-fb84f6b54522.png)
 
@@ -49,7 +49,7 @@ Penyelesaian menggunakan For, if
 
 2. **Gunakan perintah for m in range (1,9):**, _for ini untuk perulangan dari 1 sampai 8, kenapa menggunakan for,karena for ini perulangan yang terhitung. Pada skirp in range(1, 9) akan mebentuk list perulangan yang berisi [1,2,3,4,5,6,7,8] nah dan bahwa iterasi 9 itu tidak termasuk, untuk membuktikan bawa perulangan ini hanya sampai 8 saja_.
 
-3. **Lalu gunakan perintah _if(m>=1 and m<=2): b=a*0**. _if pertama ini untuk menentukan laba bulan ke 1 dan ke 2.masukan variable kalikan nilai (a) dengan data bulan 1 dan 2_. **lalu print("Laba bulan ke-",m," :",b) untuk menampilkan hasil laba **. _pada bulan pertama dan kedua belum mendapatkan laba jadinya 0_.
+3. **Lalu gunakan perintah _if(m>=1 and m<=2): b=a*0**. _if pertama ini untuk menentukan laba bulan ke 1 dan ke 2.masukan variable kalikan nilai (a) dengan data bulan 1 dan 2_. **lalu print("Laba bulan ke-",m," :",b) untuk menampilkan hasil laba**. _pada bulan pertama dan kedua belum mendapatkan laba jadinya 0_.
 
 4. **if(m>=3 and m<=4): c=a*0.1**. _if yang kedua ini untuk menentukkan laba bulan ke 3 dan ke 4.masukan variable kalikan nilai (a) dengan data bulan 3 dan 4. pada bulan ke 3 itu baru mendapatkan laba sebesar 1%  berarti bulan ke 4 juga sama. lalu cetak (m) dan (c), dengan perintah_  **print("Laba bulan ke-",m," :",c)**.
 
@@ -57,6 +57,10 @@ Penyelesaian menggunakan For, if
 
 6. **if(m==8): e=a*0.2** if keempat atau yang terakhir  ini untuk menentukan laba bulan ke 8. lalu masukan variabel kalikan nilai (a) dengan data bulan 8. Pada laba bulan ke 8 ini menurun sebanyak 2%, lalu  cetak (m) dan (e) dengan perintah_ **print ("Laba bulan ke-",m," :",e)**.
 
-7. **Kemudian yang terakhir totalkan keseluruhan laba yaitu total = b+b+c+c+d+d+d+e
+7. **Kemudian yang terakhir totalkan keseluruhan laba yaitu total = b+b+c+c+d+d+d+e**
+8. **lalu print("\nTotal : ", total)**, _untuk menampilkan hasil keseluruhan laba dari bulan pertama sampai bulan kedelapan._
+9. SELESAI :+1: :thumbsup: Hasil programan ada di bawah:point_down:
+   ![image](https://user-images.githubusercontent.com/56957725/68351955-8ede8c00-0137-11ea-8e40-89fab3ee41b5.png)
+
 
 
