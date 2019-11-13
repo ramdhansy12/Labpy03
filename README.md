@@ -1,6 +1,6 @@
 #labpy03
 ### FlowChart
-![FLOWCHART BIL TERBESAR](https://user-images.githubusercontent.com/56957725/68741804-27d24300-0621-11ea-895c-7bec9465e8a4.jpg)
+![FlowChart Latihan 1(Labpy 03)](https://user-images.githubusercontent.com/56957725/68741823-37ea2280-0621-11ea-941c-65817236e8c3.png)
 
 
 #### Penjelasan Latihan 1
@@ -17,8 +17,8 @@
 
 ------------------------------------------------------------------------------
 #### FlowChart
-![FlowChart Latihan 1(Labpy 03)](https://user-images.githubusercontent.com/56957725/68741823-37ea2280-0621-11ea-941c-65817236e8c3.png)
 
+![FLOWCHART BIL TERBESAR](https://user-images.githubusercontent.com/56957725/68741804-27d24300-0621-11ea-895c-7bec9465e8a4.jpg)
 #### Penjelasan Latihan 2
 
 
