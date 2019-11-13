@@ -1,6 +1,9 @@
 #labpy03
-#### Penjelasan Latihan 1
+### FlowChart
+![FLOWCHART BIL TERBESAR](https://user-images.githubusercontent.com/56957725/68741804-27d24300-0621-11ea-895c-7bec9465e8a4.jpg)
 
+
+#### Penjelasan Latihan 1
 
 1. Mula -mula  input  nilai N bernilai 5,  dengan pernyataan print("Masukkan nilai N : 5"). **Hasil di layar 1**
 2. Kemudian import random, import random ini untuk menghasilkan  variabel acak berisi string atau data yang akan di acak.
@@ -13,7 +16,11 @@
 ![image](https://user-images.githubusercontent.com/56957725/68291979-89dcf680-00bd-11ea-94aa-dae22e9cb6ee.png)
 
 ------------------------------------------------------------------------------
+#### FlowChart
+![FlowChart Latihan 1(Labpy 03)](https://user-images.githubusercontent.com/56957725/68741823-37ea2280-0621-11ea-941c-65817236e8c3.png)
+
 #### Penjelasan Latihan 2
+
 
 1. **Mula mula input max = 0** . fungsi dari max untuk mencari nilai tertinggi. Fungsi ini dapat diberikan sebuah parameter berupa angka.  
 2. **Ketik perintah while True**. _While disebut uncounted loop (perulangan yang tak terhitung), untuk perulangan yang memiliki syarat dan tidak tentu berapa banyak perulangannya._
